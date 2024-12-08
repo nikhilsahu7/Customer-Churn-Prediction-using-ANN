@@ -6,3 +6,5 @@
 - **Implementation of ANN for binary classification.**
 - **End-to-end pipeline including data preprocessing, model building, training, and evaluation.**
 - **Utilizes TensorFlow and Keras for creating, training, and evaluating the ANN.**
+
+### (Binary classification using ANN)(Deep Learning)
