@@ -8,3 +8,4 @@
 - **Utilizes TensorFlow and Keras for creating, training, and evaluating the ANN.**
 
 ### (Binary classification using ANN)(Deep Learning)
+(pip install -r requirements.txt)
